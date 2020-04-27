@@ -1,23 +1,21 @@
 <template>
-  <div class="LandingPage">
+  <div class="AboutPage">
     <Nav />
-    <br>
-    <Landing />
-    <br>
+    <Soon />
     <Footer />
   </div>
 </template>
 
 <script>
 import Nav from '~/components/Nav.vue'
-import Landing from '~/components/Landing.vue'
 import Footer from '~/components/Footer.vue'
+import Soon from '~/components/Coming-Soon.vue'
 
 export default {
   components: {
     Nav,
-    Landing,
-    Footer
+    Footer,
+    Soon
   }
 }
 </script>
