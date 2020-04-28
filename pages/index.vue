@@ -4,6 +4,8 @@
     <br>
     <Landing />
     <br>
+    <Who />
+    <br>
     <Footer />
   </div>
 </template>
@@ -12,12 +14,14 @@
 import Nav from '~/components/Nav.vue'
 import Landing from '~/components/Landing.vue'
 import Footer from '~/components/Footer.vue'
+import Who from '~/components/About_Us/Who_We_Are.vue'
 
 export default {
   components: {
     Nav,
     Landing,
-    Footer
+    Footer,
+    Who
   }
 }
 </script>
