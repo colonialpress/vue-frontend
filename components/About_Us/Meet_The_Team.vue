@@ -7,35 +7,43 @@
       <br>
       <div class="container">
         <div class="card">
-          <img src="../../assets/placeholder.jpg">
+          <!-- <img src="../../assets/placeholder.jpg"> -->
+          <span class="dot"></span>
           <h2>Chris Dry</h2>
         </div>
         <div class="card">
-          <img src="../../assets/placeholder.jpg">
+          <!-- <img src="../../assets/placeholder.jpg"> -->
+          <span class="dot"></span>
           <h2>Stephanie Dry</h2>
         </div>
         <div class="card">
-          <img src="../../assets/placeholder.jpg">
+          <!-- <img src="../../assets/placeholder.jpg"> -->
+          <span class="dot"></span>
           <h2>Glenn "Butch" Dry</h2>
         </div>
         <div class="card">
-          <img src="../../assets/placeholder.jpg">
+          <!-- <img src="../../assets/placeholder.jpg"> -->
+          <span class="dot"></span>
           <h2>Judy Lucas</h2>
         </div>
         <div class="card">
-          <img src="../../assets/placeholder.jpg">
+          <!-- <img src="../../assets/placeholder.jpg"> -->
+          <span class="dot"></span>
           <h2>Brad</h2>
         </div>
         <div class="card">
-          <img src="../../assets/placeholder.jpg">
+          <!-- <img src="../../assets/placeholder.jpg"> -->
+          <span class="dot"></span>
           <h2>Van</h2>
         </div>
         <div class="card">
-          <img src="../../assets/placeholder.jpg">
+          <!-- <img src="../../assets/placeholder.jpg"> -->
+          <span class="dot"></span>
           <h2>Tom</h2>
         </div>
         <div class="card">
-          <img src="../../assets/placeholder.jpg">
+          <!-- <img src="../../assets/placeholder.jpg"> -->
+          <span class="dot"></span>
           <h2>Duncan</h2>
         </div>
       </div>
@@ -52,15 +60,25 @@
   .MeetTheTeam p {
     font-size: 18px;
   }
+  .MeetTheTeam .card h2 {
+    font-size: 20px;
+  }
+  .MeetTheTeam .dot {
+    height: 250px;
+    width: 250px;
+    background-color: #285E9C;
+    border-radius: 50%;
+    display: inline-block;
+  }
   .MeetTheTeam .container {
     display: flex;
-    flex-direction: row;
-    flex-wrap: wrap-reverse;
-    flex-flow: column wrap;
-    justify-content: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    height: 100%;
   }
   .MeetTheTeam .card {
     text-align: center;
-    flex: 1 1 auto;
+    padding: 2% 1%;
   }
 </style>
