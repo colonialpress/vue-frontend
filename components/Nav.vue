@@ -13,8 +13,8 @@
       <nuxt-link class="link" to="/Pre-Press-and-Design">
         Pre-Press & Design
       </nuxt-link>
-      <nuxt-link class="link" to="/About-Us">
-        About Us
+      <nuxt-link class="link" to="/Testimonials">
+        Testimonials
       </nuxt-link>
       <nuxt-link class="link" to="/Contact-Us">
         Contact Us
