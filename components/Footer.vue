@@ -35,7 +35,7 @@
     box-shadow: 10px 10px 10px 10px #D8D8D8;
   }
   .Footer {
-    padding: 8%;
+    padding: 3% 8%;
   }
   .Footer h1 {
     font-size: 50px;
