@@ -71,12 +71,12 @@
     display: inline-block;
   }
   .MeetTheTeam .container {
-    display: flex;
-    align-items: flex-start;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    height: 100%;
-  }
+       display: flex;
+       align-items: flex-start;
+       flex-wrap: wrap;
+       justify-content: space-evenly;
+       height: 100%;
+     }
   .MeetTheTeam .card {
     text-align: center;
     padding: 2% 1%;
