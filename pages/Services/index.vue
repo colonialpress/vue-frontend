@@ -3,7 +3,6 @@
     <Nav />
     <br>
     <Printing />
-    <br>
     <Print />
     <br>
     <Advertising />

@@ -1,12 +1,13 @@
 <template>
   <div class="Advertising">
     <h1>Advertising</h1>
+    <br>
     <div class="container">
       <p class="item">Pens</p>
       <p class="item">Pencils</p>
       <p class="item">Post-it Notes</p>
       <p class="item">Bags</p>
-      <p class="item">Baloons</p>
+      <p class="item">Balloons</p>
       <p class="item">Mouse Pads</p>
       <p class="item">Cups/Mugs</p>
       <p class="item">Key Chains</p>
@@ -29,12 +30,14 @@
     height: 100%;
   }
   .Advertising .item {
-    text-align: center;
+    text-align: left;
     padding-left: 2%;
     padding-right: 2%;
+    width: 25%;
+    color: #383838;
   }
   .Advertising h1 {
-    font-size: 65px;
+    font-size: 50px;
   }
   .Advertising p {
     font-size: 18px;

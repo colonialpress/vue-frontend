@@ -46,12 +46,14 @@
         text-align: center;
     }
     .Print .item {
-        text-align: center;
+        text-align: left;
         padding-left: 2%;
         padding-right: 2%;
+        width: 25%;
+        color: #383838;
     }
     .Print h1 {
-        font-size: 65px;
+        font-size: 50px;
     }
     .Print p {
         font-size: 18px;
