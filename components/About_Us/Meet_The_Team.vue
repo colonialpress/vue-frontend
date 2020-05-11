@@ -55,7 +55,7 @@
     padding: 8% 15%;
   }
   .MeetTheTeam h1 {
-    font-size: 65px;
+    font-size: 50px;
   }
   .MeetTheTeam p {
     font-size: 18px;

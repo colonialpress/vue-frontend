@@ -14,7 +14,7 @@
 </template>
 <style>
   .whoWeAre h1 {
-    font-size: 65px;
+    font-size: 50px;
   }
   .whoWeAre p {
     font-size: 18px;
