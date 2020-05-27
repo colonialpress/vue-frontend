@@ -1,6 +1,6 @@
 <template>
     <div class="prePressDesign">
-        <img src="../../assets/header.png">
+        <img src="../../assets/header.jpg">
         <p class="pressDesign">
             <strong>Pre-Press & Design</strong>
         </p>

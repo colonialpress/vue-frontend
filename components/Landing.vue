@@ -1,6 +1,6 @@
 <template>
   <div class="landingImage">
-    <img src="../assets/header.png">
+    <img src="../assets/header.jpg">
     <p class="moto">
       <strong>Yesteryear's service with tomorrow's technology.</strong>
     </p>

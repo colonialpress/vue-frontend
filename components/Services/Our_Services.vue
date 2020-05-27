@@ -1,6 +1,6 @@
 <template>
     <div class="ourServicesImage">
-        <img src="../../assets/header.png">
+        <img src="../../assets/header.jpg">
         <p class="services">
             <strong>Our Services</strong>
         </p>
